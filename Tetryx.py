@@ -316,7 +316,7 @@ def check_lMove():
     
 """
 !!!
-def landínganimation():
+def landÃ­nganimation():
     #
 """
 
